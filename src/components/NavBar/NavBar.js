@@ -21,7 +21,7 @@ const NavBar = () => {
                 <img
                   style={{ width: "50px" }}
                   src="https://mushroomworldumbrella.com/img/MW_logo.png"
-                  alt="arc-invoice"
+                  alt="mw-invoice"
                 />
               </span>
               <svg
